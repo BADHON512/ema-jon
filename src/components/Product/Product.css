@@ -1,0 +1,17 @@
+.product{
+    display: flex;
+    border-bottom: 1px dotted fuchsia;
+    padding: 5px;
+    margin: 10px;
+}
+.product-name{
+    margin-left: 20px;
+}
+.button{
+    width:150px;
+    background-color: goldenrod;
+    border: 1px solid gray;
+    height: 20px;
+    border-radius: 3px;
+
+}
